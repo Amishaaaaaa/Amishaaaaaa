@@ -1,6 +1,6 @@
 - Hi, I’m @Amishaaaaaa
 - I’m from CS background.
-- C Pthon C++ 
+- C Python C++ 
 - Learned Web Dev.(html,css,javascript,python(Flask,sqlalchemy,flask-restful),sql)
 - I’m looking to collaborate on exciting projects.
 - Email: amishamishra12886@gmail.com 
