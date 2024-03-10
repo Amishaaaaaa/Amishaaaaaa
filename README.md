@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Amisha Mishra</h1>
+<h1 align="center">Hi, I'm Amisha Mishra</h1>
 <h3 align="center">A passionate Full stack developer and enthusiastic Data Science Student from India.</h3>
 
-- 🌱 I’m currently learning **React, Tailwind CSS and Typescript**
+- I’m currently learning **React, Tailwind CSS and Typescript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Amishaaaaaa?tab=repositories](https://github.com/Amishaaaaaa?tab=repositories)
+- All of my projects are available at [https://github.com/Amishaaaaaa?tab=repositories](https://github.com/Amishaaaaaa?tab=repositories)
 
-- 📫 How to reach me **amishamishra12886@gmail.com**
+- How to reach me **amishamishra12886@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
